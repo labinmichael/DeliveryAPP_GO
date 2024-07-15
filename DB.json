@@ -1,0 +1,110 @@
+
+   [ {
+        "id": "65ec0b429518c2671dab5369",
+        "isAvailable": true,
+        "productName": "Burger",
+        "description": "Juicy beef burger",
+        "actualPrice": 80,
+        "offerPrice": 70,
+        "productType": "Fast Food",
+        "shopID": "123456",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "65ec0c68e0592685772562b1",
+        "isAvailable": true,
+        "productName": "Pizza11",
+        "description": "Crispy chicken",
+        "actualPrice": 100,
+        "offerPrice": 85,
+        "productType": "Fast Food11",
+        "shopID": "123456",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "65ec14dd535d9c06beba4e8b",
+        "isAvailable": true,
+        "productName": "Pizza11",
+        "description": "Crispy chicken",
+        "actualPrice": 100,
+        "offerPrice": 85,
+        "productType": "Fast Food11",
+        "shopID": "123456",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "65ec14dd535d9c06beba4e8c",
+        "isAvailable": true,
+        "productName": "Burger1",
+        "description": "Juicy beef burger1",
+        "actualPrice": 80,
+        "offerPrice": 70,
+        "productType": "Fast Food",
+        "shopID": "123456",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "65ec15074bdb1c5e4adce572",
+        "isAvailable": true,
+        "productName": "Pizza11",
+        "description": "Crispy chicken",
+        "actualPrice": 100,
+        "offerPrice": 85,
+        "productType": "Fast Food11",
+        "shopID": "123456",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "65ec15074bdb1c5e4adce573",
+        "isAvailable": true,
+        "productName": "Burger1",
+        "description": "Juicy beef burger1",
+        "actualPrice": 80,
+        "offerPrice": 70,
+        "productType": "Fast Food",
+        "shopID": "123456",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "65ec1a342ec45b9ddf2bd5c1",
+        "isAvailable": false,
+        "productName": "chicken fry1",
+        "description": "Description of the new chicken fry",
+        "actualPrice": 180,
+        "offerPrice": 100,
+        "productType": "Updated Product Type",
+        "shopID": "Updated Shop ID",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "2024-03-11T11:32:37.029Z"
+    },
+    {
+        "id": "65ec1ace2ec45b9ddf2bd5c2",
+        "isAvailable": true,
+        "productName": "New Product11",
+        "description": "Description of the new product11",
+        "actualPrice": 50,
+        "offerPrice": 40,
+        "productType": "New Type",
+        "shopID": "123456",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "65ee8c9267930b8b07c4fdef",
+        "isAvailable": false,
+        "productName": "chicken fry1",
+        "description": "Description of the new chicken fry",
+        "actualPrice": 180,
+        "offerPrice": 100,
+        "productType": "Updated Product Type",
+        "shopID": "Updated Shop ID",
+        "createdAt": "0001-01-01T00:00:00Z",
+        "updatedAt": "2024-03-11T11:31:40.596Z"
+    }
+   ]
